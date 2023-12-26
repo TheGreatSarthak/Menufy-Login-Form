@@ -1,4 +1,4 @@
-# menufy
+# menufy login form
 
 A new Flutter project.
 
